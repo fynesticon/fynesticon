@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fynesticon
 - 👀 I’m interested in software and web designs
-- 🌱 I’m currently learning full stack
+- 🌱 I’m currently learning software Engineering at ALX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
