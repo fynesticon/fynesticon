@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif" width="30px"/>
 </h1>
 
-I am a Software Engineer 👨‍💻
+Hello, I'm Ekomobong Cletus, a passionate software engineer with 4+ of experience in developing and delivering high-quality software solutions. I have expertise in [Programming Languages, Frameworks, and Tools], and enjoy solving complex problems and creating innovative solutions. My focus is on writing clean, maintainable code that is scalable and adaptable to changing requirements. I'm always looking to expand my skills and knowledge, and enjoy collaborating with other developers to build great software. Thanks for visiting my profile, feel free to take a look at my projects and contributions! 👨‍💻
 -------------------------
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="300"/>
