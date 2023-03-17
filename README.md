@@ -20,7 +20,7 @@ Hello, I'm Ekomobong Cletus, a passionate software engineer with 4+ of experienc
 </div>
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniebietafia&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=fynesticon&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div align="center">
