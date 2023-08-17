@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif" width="30px"/>
 </h1>
 
-Hello, I'm Ekomobong Cletus, a passionate software engineer with 4+ of experience in developing and delivering high-quality software solutions. I have expertise in [Programming Languages, Frameworks, and Tools], and enjoy solving complex problems and creating innovative solutions. My focus is on writing clean, maintainable code that is scalable and adaptable to changing requirements. I'm always looking to expand my skills and knowledge, and enjoy collaborating with other developers to build great software. Thanks for visiting my profile, feel free to take a look at my projects and contributions! 👨‍💻
+Hello!!!, I'm Ekomobong Cletus, a passionate software engineer with 4+ of experience in developing and delivering high-quality software solutions. I have expertise in Python, JavaScript, React, and Node.js. Proficient with Django, Flask, and Express. Familiar with Git, Docker, and Kubernetes, and enjoy solving complex problems and creating innovative solutions. My focus is on writing clean, maintainable code that is scalable and adaptable to changing requirements. I'm always looking to expand my skills and knowledge and enjoy collaborating with other developers to build great software. Thanks for visiting my profile, feel free to take a look at my projects and contributions! 👨‍💻
 -------------------------
 <img align="right" alt="coding" width="400" src="https://i2.wp.com/i.giphy.com/media/26tn33aiTi1jkl6H6/giphy-downsized.gif?w=770&ssl=1">
 <div id="header" align="center">
@@ -30,7 +30,7 @@ Hello, I'm Ekomobong Cletus, a passionate software engineer with 4+ of experienc
 
 --------------------------------------------------------------------------------------------------
 ### :man_technologist: About Me :
-Electronics & Computer Engineering Undergraduate || Currently studying Software Engineering at ALX Africa || Standout full stack developer || Experience with C, C++, Python, React and JavaScript|| also enjoy working in a team.  and I am making excellent progress thus far.
+Electronics & Computer Engineering Undergraduate || Currently studying Software Engineering at ALX Africa || Standout full stack developer || Experience with C, C++, Python, React, and JavaScript|| also enjoy working in a team.  and I am making excellent progress thus far.
 
 - 🌍  I'm based in Nigeria <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Animated-Flag-Nigeria.gif" width="40" height="20"/>
 - 🖥️  See my portfolio at [MyPortfolio](http://https://github.com/Fynesticon)
